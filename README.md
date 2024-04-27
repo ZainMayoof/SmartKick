@@ -1,4 +1,4 @@
-# SMART KICK: Motion-Controlled Football Game
+![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/dc2c9426-163f-496e-9931-76345a8a0db9)# SMART KICK: Motion-Controlled Football Game
 Smart Kick is a motion-controlled football game created for the MISTI-MIT "Wearable Technology" Workshop. Using motion sensors, you can control the player's direction with simple hand movements; It turns your hand gestures into kicks, offering a fun and interactive gaming experience.
 
 I used an MPU6050 motion sensor to capture hand movements through the detection of acceleration changes. The accelerometer data is processed to extract precise positional information. The system incorporates L298N motor drivers to control NEMA 17 stepper motors responsible for the X and Y axes in a railway mechanism. The motion data from the MPU6050 influences the stepper motor rotations via the L298N drivers, facilitating accurate control and simulation of directional motion for an immersive gaming experience
@@ -32,6 +32,7 @@ I used an MPU6050 motion sensor to capture hand movements through the detection 
 - Gloves (to attach the accelerometer)
 - Magnets
 - Net
+- Jumper wires
 
 # 3D MODELS
 
@@ -46,5 +47,18 @@ I used an MPU6050 motion sensor to capture hand movements through the detection 
 ![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/a9d14500-850b-487a-a7fa-9d6daec7629b)
 
 ![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/f7cd6c1c-c2c5-4ff5-97c8-b1540a7b125e)
+
+
+# ARDUINO LIBRARIES
+- AccelStepper: https://www.airspayce.com/mikem/arduino/AccelStepper/
+- adafruit mpu6050
+- Adafruit Unified Sensor
+- Adafruit Bus IO
+
+
+# DIAGRAMS
+![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/aba6d8d6-dcae-44be-a7a1-9ff7e74edfb6)
+![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/5577bd01-d0a0-444f-aa0d-f0f2f2f5545d)
+![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/d8f2d4ec-3dfb-43f1-bb8e-1bfa32e4d51c)
 
 
