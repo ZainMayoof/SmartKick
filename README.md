@@ -30,6 +30,8 @@ I used an MPU6050 motion sensor to capture hand movements through the detection 
 - Timing belt
 - arcylic glass sheet
 - Gloves (to attach the accelerometer)
+- Magnets
+- Net
 
 # 3D MODELS
 
@@ -37,7 +39,12 @@ I used an MPU6050 motion sensor to capture hand movements through the detection 
 
 ![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/4872f70c-5c4e-4334-923d-3ba26aeef6f7)
 
+![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/8c42073e-cc29-40a7-8c34-9272d6ac5a6d)
+
 ![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/2c69ea41-c2a4-4f42-b800-1304e4390b8d)
 
 ![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/a9d14500-850b-487a-a7fa-9d6daec7629b)
+
+![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/f7cd6c1c-c2c5-4ff5-97c8-b1540a7b125e)
+
 
