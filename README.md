@@ -1,6 +1,8 @@
 # SMART KICK: Motion-Controlled Football Game
-Smart Kick integrates an MPU6050 motion sensor to capture hand movements through the detection of acceleration changes. The accelerometer data is processed to extract precise positional information. The system incorporates L298N motor drivers to control NEMA 17 stepper motors responsible for the X and Y axes in a railway mechanism. The motion data from the MPU6050 influences the stepper motor rotations via the L298N drivers, facilitating accurate control and simulation of directional motion for an immersive gaming experience
-# HARDWARE
+Smart Kick is a motion-controlled football game created for the MISTI-MIT "Wearable technology" Workshop. Using motion sensors, you can control the player's direction with simple hand movements; It turns your hand gestures into kicks, offering a fun and interactive gaming experience.
+
+I used an MPU6050 motion sensor to capture hand movements through the detection of acceleration changes. The accelerometer data is processed to extract precise positional information. The system incorporates L298N motor drivers to control NEMA 17 stepper motors responsible for the X and Y axes in a railway mechanism. The motion data from the MPU6050 influences the stepper motor rotations via the L298N drivers, facilitating accurate control and simulation of directional motion for an immersive gaming experience
+# ELECTRONICS 
 - NEMA 17 Stepper Motor (2)
 
  ![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/ce774be2-7e01-41d0-a2c4-b272415bb30e)
@@ -21,12 +23,13 @@ Smart Kick integrates an MPU6050 motion sensor to capture hand movements through
 
 ![image](https://github.com/ZainMayoof/SmartKick/assets/168248316/70e628c4-6081-4091-9be4-3435f8becd7d)
 
-# TOOLS
+# TOOLS & HARDWARE
 - Threaded metal rod
 - Flexible coupling
 - Bearings
 - Timing belt
-- arcylic class sheet
+- arcylic glass sheet
+- Gloves (to attach the accelerometer)
 
 # 3D MODELS
 
